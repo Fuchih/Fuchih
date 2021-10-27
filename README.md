@@ -2,7 +2,7 @@ Hello there, I’m Fuchih
 
 I am a self-taught front-end developer,and I am keen to gain more experience in this field.
 
-I’m interested in html Css Javascript Vue etc.
+I’m interested in html Css Javascript Vue React etc.
 
 I’m currently learning Front-end engineering
 
