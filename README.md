@@ -23,6 +23,8 @@ I’m currently learning Front-end engineering
 
 ご感想やご意見などございましたら下記のメールまでお願いいたします。
 
+----------------------------
+
 📫 How to reach me : t19887348@hotmail.com
 中文/日本語/English
 
